@@ -178,3 +178,7 @@
     background-color: #fff;
     border: none;
 }
+
+::ng-deep .mat-menu{
+    background-color:red;
+  }
